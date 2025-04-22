@@ -1,5 +1,3 @@
-# Interpolacao
-
 # Projeto: Interpolação Polinomial e Solução de Sistemas Lineares
 
 Este projeto tem como objetivo comparar métodos numéricos para resolução de sistemas lineares e interpolação polinomial, além de analisar pesquisas científicas recentes aplicadas nessas áreas.
